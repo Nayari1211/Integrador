@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\Integrador.csproj",
+      "projectUniqueName": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\Integrador\\Integrador.csproj",
       "projectName": "Integrador",
-      "projectPath": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\Integrador.csproj",
+      "projectPath": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\Integrador\\Integrador.csproj",
       "packagesPath": "C:\\Users\\mick_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\obj\\",
+      "outputPath": "C:\\Users\\mick_\\Documents\\Nayari\\Integrador\\Integrador\\Integrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mick_\\AppData\\Roaming\\NuGet\\NuGet.Config",
