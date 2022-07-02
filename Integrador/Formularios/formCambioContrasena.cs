@@ -17,7 +17,10 @@ namespace Integrador.Formularios
             InitializeComponent();
         }
 
-       
+        
+       //Dirigido por MICK
+       //Producido por MICK
+       //Codificado por NFLC
         private void button2_Click(object sender, EventArgs e)
         {
             if (txtContrasenaActual.Text.Equals(frmInicioSesion.contrasena))
